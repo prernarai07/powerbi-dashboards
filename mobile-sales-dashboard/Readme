@@ -1,1 +1,51 @@
+# 📱 Mobile Sales Dashboard — Power BI
 
+![Mobile Sales Dashboard](./dashboard-preview.png)
+
+An interactive Power BI dashboard analysing mobile phone sales performance across Indian cities, brands, payment methods, and time periods — with dynamic slicers for real-time filtering.
+
+---
+
+## Key Metrics
+
+| Metric | Value |
+|---|---|
+| Total Sales | 68M |
+| Total Transactions | 2K |
+| Total Quantity | 331 |
+| Avg. Sales per Transaction | 41K |
+
+---
+
+## Visuals & Charts
+
+| Visual | Type | Purpose |
+|---|---|---|
+| Total Sales by City | Donut Chart | City-wise sales across 15+ Indian cities |
+| Total Quantity by Month | Line Chart | Monthly volume trend |
+| Customer Ratings | Bar Chart | Distribution of 1–5 star ratings |
+| Transactions by Payment Method | Pie Chart | Credit Card, Debit Card, UPI, Cash split |
+| Total Sales by Mobile Model | Bar Chart | Top models — iPhone SE, OnePlus, Galaxy S21 |
+| Total Sales by Day Name | Area Chart | Day-of-week sales pattern |
+| Brand Summary Table | Table | Xiaomi, Samsung, Vivo, OnePlus, Apple |
+| Slicers | Filters | Mobile Model, Payment Method, Brand, Day Name |
+
+---
+
+## Key Insights
+
+- **Delhi** leads city-wise sales at 26.87%
+- **Apple** highest brand sales at 15.38M
+- **iPhone SE** top model at 6.6M
+- Payment methods evenly split across all 4 types
+- **Monday** highest day-of-week sales at 12.0M
+
+---
+
+## Skills Demonstrated
+
+- KPI cards with custom icons
+- Dynamic slicers for interactive filtering
+- Donut, pie, bar, area, and line charts
+- Data table for brand-level summary
+- Mobile-optimised layout design
